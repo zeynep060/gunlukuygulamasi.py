@@ -12,14 +12,18 @@ Günlük Uygulaması, kullanıcıların günlük yazılarını kaydetmelerini, g
 ## Kurulum
 
 1. Bu projeyi klonlayın veya indirin.
-2. Gerekli bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın (eğer gerekliyse):
+3. https://github.com/zeynep060/gunlukuygulamasi.py/blob/main/diary.json
+4. https://github.com/zeynep060/gunlukuygulamasi.py/blob/main/show_past_entries.json
+5. https://github.com/zeynep060/gunlukuygulamasi.py/blob/main/time_capsules.json
+6. https://github.com/zeynep060/gunlukuygulamasi.py/blob/main/user_info.json
+7. Gerekli bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın (eğer gerekliyse):
    ```bash
    pip install tk
 Kullanım
 Uygulamayı çalıştırmak için aşağıdaki komutu terminalde çalıştırın:
 
 bash
-python app.py
+gunlukuygulama.py
 Uygulama açıldığında, günlük yazılarınızı kaydetmek, geçmiş günlüklerinizi görüntülemek, rastgele bir günlük yazısını hatırlamak veya zaman kapsülleri oluşturmak için menüden ilgili seçeneği seçin.
 
 Günlük Yazısı Kaydetme
