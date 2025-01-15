@@ -45,4 +45,4 @@ Katkıda Bulunma
 Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın.
 
 Code
-Bu `README.md` dosyası, kullanıcıların uygulamayı nasıl kullanacaklarını ve temel işlevsellikleri anlamalarını sa
+Bu `README.md` dosyası, kullanıcıların uygulamayı nasıl kullanacaklarını ve temel işlevsellikleri anlamalarını sağlar.
